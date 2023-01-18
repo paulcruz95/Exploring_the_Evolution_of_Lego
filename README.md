@@ -1,4 +1,4 @@
-# Exploring_the_Evolution_of_Lego
+# Exploring the Evolution of Lego
 
 Analyze lego_sets.csv dataset to answer the questions about Lego's Star Wars themed.
 
